@@ -39,7 +39,7 @@ The data used in this project is sourced from the Kaggle dataset [Layoffs 2022](
    ```sh
          cd Data-Cleaning-MySQL
 
-3.Load Sample Data:
+3. Load Sample Data:
 Import the sample data files from the data/ directory into your MySQL database.
 
 4. Run SQL Scripts:
